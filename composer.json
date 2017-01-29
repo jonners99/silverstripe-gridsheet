@@ -19,12 +19,12 @@
         "php": ">=5.3.2",
         "composer/installers": "*",
         "silverstripe/framework": "3.4.*",
-        "crackerjackdigital/modular": "dev-master"
+        "crackerjackdigital/silverstripe-modular": "dev-master"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/crackerjackdigital/modular"
+            "url": "https://github.com/CrackerjackDigital/silverstripe-modular"
         }
     ],
     "extra": {
